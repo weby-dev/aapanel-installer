@@ -86,7 +86,7 @@ fi
 
 echo ""
 echo -e "${YELLOW}Installing AAPAnel On This Server${NC}"
-wget -O install.sh https://raw.githubusercontent.com/WebManagerSSH/aaPanel/main/script/install_6.0_en.sh && bash install.sh github
+wget -O install.sh https://raw.githubusercontent.com/weby-dev/aapanel-installer/refs/heads/main/install_6.0_en.sh && bash install.sh github
 
 echo ""
 echo -e "${GREEN}Installation Completed, All Done...Goodbye!${NC}"
