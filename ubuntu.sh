@@ -9,16 +9,16 @@ YELLOW='\033[1;33m'
 RED='\033[0;31m'
 
 sleep 1
-echo "-------------------------------------"
-echo "AAPanel Installer By WebersMitra     "
-echo "Author: Webers Mitra Solution        "
-echo "Copyright: GNU General Public License"
-echo "Supported OS: Ubuntu /18/20/22       "
-echo "Version: 1.1.2.0                     "
-echo "Release Date: 4 December 2023        "
-echo "Credits: Github                      "
-echo "Website: https://webersmitra.com     "
-echo "-------------------------------------"
+echo "-----------------------------------------"
+echo "AAPanel Installer By Getwebup            "
+echo "Author: Getwebup Web Hosting and Domains "
+echo "Copyright: GNU General Public License    "
+echo "Supported OS: Ubuntu /18/20/22           "
+echo "Version: 1.1.2.0                         "
+echo "Release Date: 4 December 2023            "
+echo "Credits: Github                          "
+echo "Website: https://getwebup.com         "
+echo "-----------------------------------------"
 sleep 1
 
 echo ""
