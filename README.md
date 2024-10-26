@@ -45,7 +45,7 @@ Note: It's recommended to change the default SSH port for security reasons.
 
 ## Installation
 
-**For Installation in *Ubuntu/Deepin* Run**
+**For Installation in *Ubuntu/Debian* Run**
 ```
 wget -O ubuntu.sh https://raw.githubusercontent.com/weby-dev/aapanel-installer/refs/heads/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
 ```
