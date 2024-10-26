@@ -21,11 +21,11 @@ aaPanel can be installed on the following operating systems:
 - Debian 9/10
 - CentOS 7/8
 
-## Getting a VPS/Dedicated Server from Whiscloud.com
+## Getting a VPS/Dedicated Server from Getwebup.com
 
-[Whiscloud](https://whiscloud.com) offers VPS hosting/ Dedicated Server services at affordable prices. To purchase a VPS:
+[Getwebup](https://getwebup.com) offers VPS hosting/ Dedicated Server services at affordable prices. To purchase a VPS:
 
-1. Visit [Whiscloud](https://whiscloud.com) website.
+1. Visit [Getwebup](https://getwebup.com) website.
 2. Browse available VPS/Dedicated Server plans and select one that suits your requirements.
 3. Proceed to checkout and complete the payment process.
 4. Once payment is processed, you will receive an email with Server login details.
@@ -47,16 +47,16 @@ Note: It's recommended to change the default SSH port for security reasons.
 
 **For Installation in *Ubuntu/Deepin* Run**
 ```
-wget -O ubuntu.sh https://raw.githubusercontent.com/webersmitra/aapanel/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
+wget -O ubuntu.sh https://raw.githubusercontent.com/weby-dev/aapanel-installer/refs/heads/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
 ```
 
 **For Installation in *Centos/AlmaLinux* Run**
 ```
-wget -O alma.sh https://raw.githubusercontent.com/webersmitra/aapanel/main/alma.sh && chmod 755 alma.sh && sudo ./alma.sh
+wget -O alma.sh https://raw.githubusercontent.com/weby-dev/aapanel-installer/refs/heads/main/alma.sh && chmod 755 alma.sh && sudo ./alma.sh
 ```
 
-[Click Here For All Management Command](https://github.com/webersmitra/aapanel/blob/main/manage.md).
+[Click Here For All Management Command](https://github.com/weby-dev/aapanel-installer/blob/main/manage.md).
 
-For Any Developement Regarding Queries Contact Us - sales@webersmitra.com
+For Any Developement Regarding Queries Contact Us - sales@getwebup.com
 
-Visit Our Website - https://webersmitra.com
+Visit Our Website - https://getwebup.com
